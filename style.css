@@ -82,7 +82,7 @@ h1 {
   font-size: 1.2rem;
 }
 
-@media (max-width: 400px) {
+/* @media (max-width: 400px) {
  #msg {
   background-color: blue;
   height: 14vmin;
@@ -96,4 +96,4 @@ h1 {
   box-sizing: border-box;
   align-self: center;
 }
-}
+} */
