@@ -84,7 +84,7 @@ h1 {
 
 @media (max-width : 600px) {
    #msg {
-  background-color: #000;
+  background-color: blue;
   height: 10vmin;
   width: 90%;
   font-size: 1rem;
